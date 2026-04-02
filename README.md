@@ -1,42 +1,55 @@
-# Sidhartha Mallick 👋
-
-Mobile Engineer & Builder <> Build; Measure; Learn <> Flutter, iOS @ GoPay 
-
-I live by a simple loop: **Build; Measure;  Learn**.  For me, coding is about shipping products that **actually work**.
+<div align="center">
+  <h1>SIDHARTHA MALLICK</h1>
+  <p><b>Product Engineer & Founder</b></p>
+  <p>Bengaluru · Building at the intersection of Agentic Systems, Compliance & Privacy</p>
+</div>
 
 ---
 
-### 🚀 Current Status
+### // proof of scale
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center"><b>40M+</b><br>Monthly Active Users</td>
+      <td align="center"><b>48H</b><br>Concept to MVP</td>
+      <td align="center"><b>1.5M+</b><br>Companies Indexed</td>
+      <td align="center"><b>1M+</b><br>Impressions</td>
+    </tr>
+  </table>
+  <p><i>not metrics. evidence.</i></p>
+</div>
 
-* **GoTo Group (GoPay):** Crafting seamless mobile experiences (iOS & Flutter).  I focus deeply on **smooth UIs and scalable architectures**.
-    *  *Experience:* Over 3 years deep in the mobile ecosystem.
-* **Building @ appsflow.io:** Currently in stealth mode.
-* **Founder @ Investorsync:** Built to crack the code on fundraising by aggregating a database of 100k+ investors for startups.
-    *  *(Note: I'm happy to share my investor database to help founders—DM me!)*
+---
 
-### 🛠️ My Playground
+### // founded & shipped
 
-| Category | Key Tech & Focus |
-| :--- | :--- |
-| **Mobile** |  Flutter, iOS, React Native, React |
-| **Backend** | Golang, Node.js, Python |
-| **Tinkering** | Qdrant, n8n, |
+<details open>
+  <summary><b>Lookover</b> (LIVE)</summary>
+  <p>Compliance infra for production AI agents — EU AI Act enforcement layer</p>
+</details>
 
-### 📚 Featured Publications & Work
+<details>
+  <summary><b>The Invoice App</b> (SHIPPED)</summary>
+  <p>Snap a quote → professional invoice → paid in 10s. Built & shipped in 48H.</p>
+</details>
 
-* Yet to write some publications
+<details>
+  <summary><b>Privyy</b> (WOUND DOWN)</summary>
+  <p>Secure AI — client-side keys, 20+ OSS models, zero data sovereignty risk</p>
+</details>
 
-### 🔗 Connect with Me
+<details>
+  <summary><b>InvestorSync</b> (PIVOTED)</summary>
+  <p>1.5M+ companies indexed · 1M+ impressions · pivoted on signal</p>
+</details>
 
-| Platform | Handle/Link |
-| :--- | :--- |
-| **LinkedIn** |  [linkedin.com/in/mallicksidhartha7](https://www.linkedin.com/in/mallicksidhartha7/) |
-| **Company** |  [investorsync.in](https://investorsync.in/) |
-| **Blog** |  [ahtrahdis7.medium.com](https://ahtrahdis7.medium.com/) |
-| **GitHub** |  [github.com/ahtrahdis7](https://github.com/ahtrahdis7) |
-| **Email** |  [mallicksidhartha7@gmail.com](mailto:mallicksidhartha7@gmail.com)|
+---
 
+### // the builder's thesis
+> **EU AI Act · August 2026** — Audit trails move from nice-to-have to a legal requirement. **Lookover** is the infrastructure layer for that shift.
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ahtrahdis7&color=007fff" />
-</p>
+<div align="center">
+  <a href="https://msidhartha7.github.io/content/Vibecon%20Portfolio%20-%20Sidhartha.html">
+    <img src="https://img.shields.io/badge/View_Full_Interactive_Portfolio-Black?style=for-the-badge&logo=react&logoColor=white" alt="Full Portfolio" />
+  </a>
+</div>
