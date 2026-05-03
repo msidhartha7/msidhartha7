@@ -39,8 +39,8 @@
 </details>
 
 <details>
-  <summary><b>InvestorSync</b> (PIVOTED)</summary>
-  <p>1.5M+ companies indexed · 1M+ impressions · pivoted on signal</p>
+  <summary><b>InvestorSync</b> (LIVE)</summary>
+  <p>1.5M+ companies indexed · 1M+ impressions · 224k Investors</p>
 </details>
 
 ---
